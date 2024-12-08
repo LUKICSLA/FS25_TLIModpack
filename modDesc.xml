@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="92">
     <author>LUKICSLA</author>
-    <version>1.0.0.0</version>
+    <version>1.0.0</version>
     <iconFilename>icon_sample.dds</iconFilename>
     <title>
         <en>TLI Custom ModPack</en>
