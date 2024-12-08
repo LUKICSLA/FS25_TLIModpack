@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>LUKICSLA</author>
+    <version>1.0.0.0</version>
+    <iconFilename>icon_sample.dds</iconFilename>
+    <title>
+        <en>TLI Custom ModPack</en>
+    </title>
+	<description>
+		<en>Custom modpack for The Lone Island Community</en>	
+	</description>
+	<multiplayer supported="true"/>
+    <storeItems>
+        <storeItem xmlFilename="xml/frontloaderShovel.xml"/>
+        <storeItem xmlFilename="xml/dd24073.xml"/>
+        <storeItem xmlFilename="xml/shuttle490S.xml"/>
+    </storeItems>
+</modDesc>
