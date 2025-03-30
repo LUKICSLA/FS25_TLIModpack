@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="92">
     <author>LUKICSLA</author>
-    <version>1.0.0</version>
+    <version>1.1.0.0</version>
     <iconFilename>icon_sample.dds</iconFilename>
     <title>
         <en>TLI Custom ModPack</en>
@@ -14,5 +14,8 @@
         <storeItem xmlFilename="xml/frontloaderShovel.xml"/>
         <storeItem xmlFilename="xml/dd24073.xml"/>
         <storeItem xmlFilename="xml/shuttle490S.xml"/>
+        <storeItem xmlFilename="xml/k105.xml"/>
+        <storeItem xmlFilename="xml/top1403.xml"/>
+        <storeItem xmlFilename="xml/us235.xml"/>
     </storeItems>
 </modDesc>
